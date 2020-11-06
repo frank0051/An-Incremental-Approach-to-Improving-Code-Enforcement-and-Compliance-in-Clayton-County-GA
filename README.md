@@ -1,7 +1,8 @@
-# An-Incremental-Approach-to-Improving-Code-Enforcement-and-Compliance-in-Clayton-County-GA
+# An Incremental Approach to Improving Code Enforcement and Compliance in Clayton County, GA
 Access here: [An Incremental Approach to Improving Code Enforcement and Compliance in Clayton County, GA](https://github.com/frank0051/An-Incremental-Approach-to-Improving-Code-Enforcement-and-Compliance-in-Clayton-County-GA/blob/main/An%20Incremental%20Approach%20to%20Improving%20Code%20Enforcement%20and%20Compliance%20in%20Clayton%20County%2C%20GA.pdf)
 
 Archival space for an [University of Georgia Archway Partnership](https://www.archwaypartnership.uga.edu/) ([Carl Vinson Institute of Government](https://cviog.uga.edu/)) report drafted in 2010. In the decade since, the findings have been cited or references by various communities across the United States, including:
+* Clayton County, Georgia
 * Greensboro, North Carolina
 * Berwick, Maine
 * [Rural Planning Group (State of Utah, Department of Workforce Services](https://www.berwickmaine.org/document_center/Code%20Enforcement/code%20enforcemnt%20for%20small%20towns.pdf)

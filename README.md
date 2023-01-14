@@ -5,7 +5,7 @@ Archival space for an [University of Georgia Archway Partnership](https://www.ar
 * Clayton County, Georgia
 * Greensboro, North Carolina
 * Berwick, Maine
-* [Rural Planning Group (State of Utah, Department of Workforce Services](https://www.berwickmaine.org/document_center/Code%20Enforcement/code%20enforcemnt%20for%20small%20towns.pdf)
+* [Rural Planning Group (State of Utah, Department of Workforce Services)](https://www.berwickmaine.org/document_center/Code%20Enforcement/code%20enforcemnt%20for%20small%20towns.pdf)
 * [Hampshire, Illinois](https://hampshireil.org/getattachment/b0172faa-de72-4a34-8185-ed4b07ea5be0/1-9-19.aspx)
 * Orem, Utah
 * [Grand County, Utah](https://www.grandcountyutah.net/AgendaCenter/ViewFile/Agenda/_03292016-522)
